@@ -3,4 +3,4 @@
 欢迎各位下载使用，麻烦各位点一个免费的“START”。
 
 下面是项目图片：
-\<img width="466" height="523" alt="{7E2F6804-E892-464D-B0F4-A95CD0FED31F}" src="https://github.com/user-attachments/assets/d0f176ac-0c7c-4c4d-a8d5-9b07fa89f5b5" />
+<img width="466" height="523" alt="d69159f2f3874246e17f25aaf934d3fb" src="https://github.com/user-attachments/assets/99c05e9c-80ae-4d3b-b604-7e0aea2f05cc" />
